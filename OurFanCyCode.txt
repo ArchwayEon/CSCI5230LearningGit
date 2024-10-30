@@ -7,9 +7,13 @@ END
 Bajracharya, Avas -------------------
 END
 Bello, Ameerat ----------------------
+This is my fancy CODE
+Excited to contribute
+JS, Java, C#, Kotlin Let's code code code!
 END
 Combs, Elijah -----------------------
-END
+I am so tired...
+Dr. Roach please let me sleep...
 Darko, Sandra -----------------------
 END
 Enechukwu, Ransome ------------------
@@ -17,8 +21,10 @@ END
 Falomo, Vivian ----------------------
 END
 Ghimire, Prinsa ---------------------
+Feature 3
 END
 Hardi, Aswad ------------------------
+Hello World!!
 END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
@@ -34,8 +40,15 @@ Roach, Jeff -------------------------
 This is feature 1
 F2
 F3
+Feature 4
 END
 Smith, Stephen ----------------------
+This
+should
+be
+in
+a
+branch!
 END
 Ukoha, Chidiebere -------------------
 A1
@@ -43,4 +56,5 @@ A2
 A3
 END
 Vieira Ramos, Gabriel ---------------
+Feature 7
 END
