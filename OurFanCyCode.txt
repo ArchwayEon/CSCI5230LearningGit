@@ -7,6 +7,9 @@ END
 Bajracharya, Avas -------------------
 END
 Bello, Ameerat ----------------------
+This is my fancy code
+Excited to contribute
+JS, Java, C#, Kotlin Let's code code code!
 END
 Combs, Elijah -----------------------
 END
@@ -19,6 +22,7 @@ END
 Ghimire, Prinsa ---------------------
 END
 Hardi, Aswad ------------------------
+Hello World!!
 END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
