@@ -15,9 +15,11 @@ Excited to contribute
 JS, Java, C#, Kotlin Let's code code code!
 This is an amazingly cool feature. //;
 Feature Y
+
 New Feature coming in!
 Feature X
 Thank you Dr. Roach. Beautiful class!
+Feature XX
 END
 Combs, Elijah -----------------------
 I am so tired...
@@ -47,6 +49,7 @@ END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
 Kyei, Maxwell -----------------------
+sdklsldk
 END
 Ogundipe, Bamidele ------------------
 END
