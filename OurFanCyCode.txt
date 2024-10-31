@@ -23,6 +23,12 @@ Ghimire, Prinsa ---------------------
 END
 Hardi, Aswad ------------------------
 Hello World!!
+Typical workflow in my branch
+1.Make a change
+2.Commit
+3.Pull
+4.Push
+5.merge with main branch
 END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
