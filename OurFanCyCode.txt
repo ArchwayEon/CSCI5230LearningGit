@@ -5,18 +5,30 @@ END
 Attoh, Kelvin -----------------------
 END
 Bajracharya, Avas -------------------
+Lets go code
+Python + Javascript = 🔥
+New changes coming in
 END
 Bello, Ameerat ----------------------
 This is my fancy CODE
 Excited to contribute
 JS, Java, C#, Kotlin Let's code code code!
 This is an amazingly cool feature. //;
+Feature Y
+New Feature coming in!
+Feature X
+Thank you Dr. Roach. Beautiful class!
 END
 Combs, Elijah -----------------------
+I am so tired...
+Dr. Roach please let me sleep...
+what the
+whats going on why do you hate me on vs but not here
 END
 Darko, Sandra -----------------------
 END
 Enechukwu, Ransome ------------------
+Hello everyone, I multitask alot and it has really helped.
 END
 Falomo, Vivian ----------------------
 END
@@ -25,6 +37,12 @@ Feature 3
 END
 Hardi, Aswad ------------------------
 Hello World!!
+Typical workflow in my branch
+1.Make a change
+2.Commit
+3.Pull
+4.Push
+5.Merge with main branch
 END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
@@ -35,12 +53,18 @@ END
 Onyia, Michael ----------------------
 END
 Raziel, Katelyn ---------------------
+Test 1
+Test 2 
+Test 3 
 END
 Roach, Jeff -------------------------
 This is feature 1
 F2
 F3
 Feature 4
+This is the best feature of the lot
+Feature X
+Feature Y
 END
 Smith, Stephen ----------------------
 This
@@ -51,6 +75,10 @@ a
 branch!
 END
 Ukoha, Chidiebere -------------------
+A1
+A2
+A3
+A4
 END
 Vieira Ramos, Gabriel ---------------
 Feature 7
