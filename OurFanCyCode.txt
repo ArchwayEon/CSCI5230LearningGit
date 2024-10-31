@@ -5,14 +5,19 @@ END
 Attoh, Kelvin -----------------------
 END
 Bajracharya, Avas -------------------
+Lets go code
+Python + Javascript = 🔥
 END
 Bello, Ameerat ----------------------
-This is my fancy code
+This is my fancy CODE
 Excited to contribute
 JS, Java, C#, Kotlin Let's code code code!
 END
 Combs, Elijah -----------------------
-END
+I am so tired...
+Dr. Roach please let me sleep...
+
+whats going on why do you hate me on vs but not here
 Darko, Sandra -----------------------
 END
 Enechukwu, Ransome ------------------
@@ -43,8 +48,18 @@ Feature 4
 This is the best feature of the lot
 END
 Smith, Stephen ----------------------
+This
+should
+be
+in
+a
+branch!
 END
 Ukoha, Chidiebere -------------------
+A1
+A2
+A3
 END
 Vieira Ramos, Gabriel ---------------
+Feature 7
 END
