@@ -14,6 +14,7 @@ Excited to contribute
 JS, Java, C#, Kotlin Let's code code code!
 This is an amazingly cool feature. //;
 Feature Y
+Feature XX
 END
 Combs, Elijah -----------------------
 I am so tired...
@@ -32,6 +33,12 @@ Feature 3
 END
 Hardi, Aswad ------------------------
 Hello World!!
+Typical workflow in my branch
+1.Make a change
+2.Commit
+3.Pull
+4.Push
+5.Merge with main branch
 END
 Harrison Esq., Prof. Dr. Matthew S. -
 END
@@ -42,6 +49,9 @@ END
 Onyia, Michael ----------------------
 END
 Raziel, Katelyn ---------------------
+Test 1
+Test 2 
+Test 3 
 END
 Roach, Jeff -------------------------
 This is feature 1
@@ -49,6 +59,8 @@ F2
 F3
 Feature 4
 This is the best feature of the lot
+Feature X
+Feature Y
 END
 Smith, Stephen ----------------------
 This
@@ -62,6 +74,7 @@ Ukoha, Chidiebere -------------------
 A1
 A2
 A3
+A4
 END
 Vieira Ramos, Gabriel ---------------
 Feature 7
