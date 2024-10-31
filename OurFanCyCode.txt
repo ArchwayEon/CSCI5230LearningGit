@@ -12,12 +12,14 @@ Bello, Ameerat ----------------------
 This is my fancy CODE
 Excited to contribute
 JS, Java, C#, Kotlin Let's code code code!
+This is an amazingly cool feature. //;
 END
 Combs, Elijah -----------------------
 I am so tired...
 Dr. Roach please let me sleep...
 
 whats going on why do you hate me on vs but not here
+END
 Darko, Sandra -----------------------
 END
 Enechukwu, Ransome ------------------
@@ -46,6 +48,7 @@ F2
 F3
 Feature 4
 This is the best feature of the lot
+Feature X
 Feature Y
 END
 Smith, Stephen ----------------------
@@ -60,6 +63,7 @@ Ukoha, Chidiebere -------------------
 A1
 A2
 A3
+A4
 END
 Vieira Ramos, Gabriel ---------------
 Feature 7
